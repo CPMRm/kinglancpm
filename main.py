@@ -12,7 +12,7 @@ from rich.style import Style
 import pystyle
 from pystyle import Colors, Colorate
 
-from kinglancpm import kinglancpm
+from kinglancpm import CPMRm
 
 __CHANNEL_USERNAME__ = "KingLanCPM"
 __GROUP_USERNAME__   = "KingLanCPMchat"
